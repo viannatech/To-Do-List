@@ -105,5 +105,3 @@ Este projeto é de uso livre para estudos e melhorias.
 Sinta-se à vontade para clonar, modificar e evoluir 👍
 
 ---
-
-Se quiser deixar esse projeto online com GitHub Pages ou transformá-lo em um sistema mais avançado, é só chamar 🚀
